@@ -35,10 +35,10 @@
 }
 
 #skill .img {
-    min-height: 600px;
-    width: 95%;
-    width: 15% !important;
-    margin: 30px;
+    min-height: 800px;
+    width: 100%;
+    width: 50% !important;
+    margin: 50px !important;
 
 }
 
